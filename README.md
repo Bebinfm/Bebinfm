@@ -109,32 +109,30 @@ Mission:
 
 # 🏗️ Analytics Workflow
 
-text
-┌────────────────────────────┐
-│      Data Collection       │
-│ Excel • SQL • CSV • APIs   │
-└─────────────┬──────────────┘
-              │
-              ▼
-┌────────────────────────────┐
-│      Data Cleaning         │
-│ Python • Pandas • NumPy    │
-└─────────────┬──────────────┘
-              │
-              ▼
-┌────────────────────────────┐
-│      Data Analysis         │
-│ Statistics • ML • SQL      │
-└─────────────┬──────────────┘
-              │
-              ▼
-┌────────────────────────────┐
-│ Data Visualization & BI    │
-│ Power BI • Reports         │
-└────────────────────────────┘
-
-
----
+```text
+      ┌───────────────────────────────┐
+      │      Data Collection          │
+      │ Excel • SQL • CSV • APIs      │
+      └───────────────┬───────────────┘
+                      │
+                      ▼
+      ┌───────────────────────────────┐
+      │      Data Cleaning            │
+      │ Python • Pandas • NumPy       │
+      └───────────────┬───────────────┘
+                      │
+                      ▼
+      ┌───────────────────────────────┐
+      │      Data Analysis            │
+      │ Statistics • SQL • ML         │
+      └───────────────┬───────────────┘
+                      │
+                      ▼
+      ┌───────────────────────────────┐
+      │   Data Visualization & BI     │
+      │ Power BI • Dashboards         │
+      └───────────────────────────────┘
+```
 
 # 🚀 High-Impact Projects
 
