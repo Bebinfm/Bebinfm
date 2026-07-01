@@ -78,7 +78,7 @@ Mission:
 # 💼 Professional Experience
 
 ### 🟢 Data Science Intern
-**Besant Technologies** | *Apr 2026 – Present*
+**Besant Technologies** | *March 2026 – Present*
 * Engineering end-to-end data pipelines and building practical machine learning models using real-world datasets.
 * Executing advanced exploratory data analysis (EDA) and data preprocessing utilizing Python, Pandas, NumPy, and Scikit-learn.
 * Developing data-driven solutions to optimize business workflows while aggressively expanding expertise in full-stack AI development.
