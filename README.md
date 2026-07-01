@@ -60,7 +60,7 @@ Mission:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,SQL,Power BI,Excel,Pandas,NumPy,Matplotlib,Scikit-learn,mysql,MongoDB,git,linux,vscode&perline=7" />
+<img src="https://skillicons.dev/icons?i=python,mysql,mongodb,git,linux,vscode,github,docker,html,css,js,nodejs,react&perline=7" />
 
 </div>
 
