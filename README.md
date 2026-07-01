@@ -2,11 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,100:58A6FF&text=Bebin%20FM&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn" />
 
-# 🚀 Data Analyst • Business Intelligence Developer • AI & Data Science Graduate
+# 🚀 Data Analyst • Business Intelligence Developer • AI Developer • SQL Analyst
 
 ### Transforming Data into Insights • Building Analytics Solutions • Machine Learning Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Machine+Learning+Engineer;Generative+AI+Developer;LLM+Engineer;RAG+Specialist;AI+Automation+Developer;Backend+Engineer;Building+Production+Ready+AI+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Data+Analyst;Business+Intelligence+Developer;AI+Developer;SQL+Analyst;AI+Automation+Developer;Building+Production+Ready+AI+Systems" />
 
 <br>
 
@@ -64,13 +64,13 @@ Mission:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,django,fastapi,nodejs,nextjs,angular,postgres,mysql,firebase,docker,git,linux,vscode&perline=7" />
+<img src="https://skillicons.dev/icons?i=python,SQL,Power BI,Excel,Pandas,NumPy,Matplotlib,Scikit-learn,mysql,MongoDB,git,linux,vscode&perline=7" />
 
 </div>
 
 ---
 
-# 🧠 Core Expertise
+# 💼 Professional Experience
 
 ### 🟢 Data Science Intern
 **Besant Technologies** | *Apr 2026 – Present*
@@ -88,6 +88,10 @@ Mission:
 **TechVolt Software Pvt Ltd** | *2024*
 * Conducted rigorous data preprocessing and exploratory analysis on datasets containing over **10,000+ records**.
 * Leveraged Matplotlib, Pandas, and NumPy to identify hidden market trends and generate visual insights for executive reporting.
+
+---
+
+# 🧠 Core Competencies
 
 | Domain | Technologies |
 |----------|----------|
@@ -131,6 +135,8 @@ text
 
 
 ---
+
+# 🚀 High-Impact Projects
 
 ## 🤖 Merchant Sales Analysis
 
@@ -178,7 +184,7 @@ A multilingual tourism web application that helps users explore Tamil Nadu herit
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=santhoshkumaroff&theme=github-dark&hide_border=true&radius=16" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bebinoff&theme=github-dark&hide_border=true&radius=16" />
 
 </div>
 
@@ -188,7 +194,7 @@ A multilingual tourism web application that helps users explore Tamil Nadu herit
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santhoshkumaroff&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bebinoff&theme=github_dark" />
 
 </div>
 
