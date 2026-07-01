@@ -174,7 +174,7 @@ A multilingual tourism web application that helps users explore Tamil Nadu herit
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=santhoshkumaroff&theme=github-dark-blue&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=bebinfm&theme=github-dark-blue&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
 </div>
 
@@ -184,7 +184,7 @@ A multilingual tourism web application that helps users explore Tamil Nadu herit
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bebinoff&theme=github-dark&hide_border=true&radius=16" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bebinfm&theme=github-dark&hide_border=true&radius=16" />
 
 </div>
 
@@ -194,7 +194,7 @@ A multilingual tourism web application that helps users explore Tamil Nadu herit
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bebinoff&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bebinfm&theme=github_dark" />
 
 </div>
 
