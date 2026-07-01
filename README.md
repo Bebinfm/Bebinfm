@@ -21,13 +21,9 @@
 
 # 💫 About Me
 
-yaml
-Name: Bebin F M
+Bebin F M
 
-Role: Data Analyst
-
-Education:
-  B.Tech in Artificial Intelligence & Data Science
+B.Tech in Artificial Intelligence & Data Science
 
 Specializations:
   - Data Analytics
