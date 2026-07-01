@@ -22,8 +22,8 @@
 # 💫 About Me
 
 Bebin F M
-
 B.Tech in Artificial Intelligence & Data Science
+Data Analyst specializing in AI & Data Science with expertise in Python, SQL, Power BI, and Machine Learning. Passionate about transforming complex data into actionable insights and developing data-driven solutions that enhance business performance and decision-making
 
 Specializations:
   - Data Analytics
