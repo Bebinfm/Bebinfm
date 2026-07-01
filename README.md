@@ -110,29 +110,42 @@ Mission:
 # 🏗️ Analytics Workflow
 
 ```text
-      ┌───────────────────────────────┐
-      │      Data Collection          │
-      │ Excel • SQL • CSV • APIs      │
-      └───────────────┬───────────────┘
-                      │
-                      ▼
-      ┌───────────────────────────────┐
-      │      Data Cleaning            │
-      │ Python • Pandas • NumPy       │
-      └───────────────┬───────────────┘
-                      │
-                      ▼
-      ┌───────────────────────────────┐
-      │      Data Analysis            │
-      │ Statistics • SQL • ML         │
-      └───────────────┬───────────────┘
-                      │
-                      ▼
-      ┌───────────────────────────────┐
-      │   Data Visualization & BI     │
-      │ Power BI • Dashboards         │
-      └───────────────────────────────┘
-```
+┌────────────────────────────┐                  ┌────────────────────────────┐
+│      Data Collection       │                  │     Problem Definition     │
+│ Excel • SQL • CSV • APIs   │                  │ Business Understanding     │
+└─────────────┬──────────────┘                  └─────────────┬──────────────┘
+              │                                               │
+              ▼                                               ▼
+┌────────────────────────────┐                  ┌────────────────────────────┐
+│      Data Cleaning         │                  │      Data Collection       │
+│ Python • Pandas • NumPy    │                  │ APIs • CSV • Database      │
+└─────────────┬──────────────┘                  └─────────────┬──────────────┘
+              │                                               │
+              ▼                                               ▼
+┌────────────────────────────┐                  ┌────────────────────────────┐
+│      Data Analysis         │                  │   Data Preprocessing       │
+│ Statistics • SQL • ML      │                  │ Cleaning • Feature Engg.   │
+└─────────────┬──────────────┘                  └─────────────┬──────────────┘
+              │                                               │
+              ▼                                               ▼
+┌────────────────────────────┐                  ┌────────────────────────────┐
+│ Data Visualization & BI    │                  │     Model Training         │
+│ Power BI • Dashboards      │                  │ Scikit-learn • TensorFlow  │
+└────────────────────────────┘                  └─────────────┬──────────────┘
+                                                              │
+                                                              ▼
+                                                ┌────────────────────────────┐
+                                                │      Model Evaluation      │
+                                                │ Accuracy • F1 • RMSE       │
+                                                └─────────────┬──────────────┘
+                                                              │
+                                                              ▼
+                                                ┌────────────────────────────┐
+                                                │        Deployment          │
+                                                │ Flask • FastAPI • Docker   │
+                                                └────────────────────────────┘
+
+  ```
 
 # 🚀 High-Impact Projects
 
