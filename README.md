@@ -10,10 +10,10 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Open%20To-Opportunities-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Focus-Generative%20AI-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Specialization-LLM%20%26%20RAG-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Python-Advanced-yellow?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open%20To-Data%20Analyst%20Roles-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Focus-Business%20Intelligence-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Specialization-Python%20%7C%20SQL%20%7C%20Power%20BI-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Learning-Machine%20Learning-yellow?style=for-the-badge" />
 
 </div>
 
